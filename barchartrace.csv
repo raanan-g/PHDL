@@ -1,0 +1,897 @@
+,date,name,value
+0,1962,Tuberculosis,0.06365599999999999
+1,1963,Tuberculosis,0.061655999999999996
+2,1964,Tuberculosis,0.054484000000000005
+3,1965,Tuberculosis,0.051553999999999996
+4,1966,Tuberculosis,0.048794
+5,1967,Tuberculosis,0.043532
+6,1968,Tuberculosis,0.039136000000000004
+7,1969,Tuberculosis,0.034509
+8,1970,Tuberculosis,0.031542
+9,1971,Tuberculosis,0.026895
+10,1972,Tuberculosis,0.025608
+11,1973,Tuberculosis,0.022256
+12,1974,Tuberculosis,0.019865999999999998
+13,1975,Tuberculosis,0.018581
+14,1976,Tuberculosis,0.017236
+15,1977,Tuberculosis,0.016013
+16,1978,Tuberculosis,0.015468
+17,1979,Tuberculosis,0.010496
+18,1980,Tuberculosis,0.010154
+19,1981,Tuberculosis,0.009725
+20,1982,Tuberculosis,0.008964
+21,1983,Tuberculosis,0.008616
+22,1984,Tuberculosis,0.00817
+23,1985,Tuberculosis,0.008206
+24,1986,Tuberculosis,0.00821
+25,1987,Tuberculosis,0.007890000000000001
+26,1988,Tuberculosis,0.008573
+27,1989,Tuberculosis,0.008591
+28,1990,Tuberculosis,0.007761
+29,1991,Tuberculosis,0.007205
+30,1992,Tuberculosis,0.006997
+31,1993,Tuberculosis,0.0066040000000000005
+32,1994,Tuberculosis,0.005877
+33,1995,Tuberculosis,0.005221
+34,1996,Tuberculosis,0.004627
+35,1997,Tuberculosis,0.004405
+36,1998,Tuberculosis,0.004122
+37,1999,Tuberculosis,0.003396
+38,2000,Tuberculosis,0.0027949999999999997
+39,2001,Tuberculosis,0.002702
+40,2002,Tuberculosis,0.0027370000000000003
+41,2003,Tuberculosis,0.002432
+42,2004,Tuberculosis,0.0022329999999999997
+43,2005,Tuberculosis,0.002152
+44,2006,Tuberculosis,0.0021190000000000002
+45,2007,Tuberculosis,0.0017739999999999998
+46,2008,Tuberculosis,0.001834
+47,2009,Tuberculosis,0.001638
+48,2010,Tuberculosis,0.0017109999999999998
+49,2011,Tuberculosis,0.001586
+50,2012,Tuberculosis,0.00146
+51,2013,Tuberculosis,0.001568
+52,2014,Tuberculosis,0.001358
+53,2015,Tuberculosis,0.00128
+54,2016,Tuberculosis,0.001417
+55,2017,Tuberculosis,0.001328
+56,1962,All Malignant Neoplasms,1.918691
+57,1963,All Malignant Neoplasms,1.92766
+58,1964,All Malignant Neoplasms,1.9278680000000001
+59,1965,All Malignant Neoplasms,1.947718
+60,1966,All Malignant Neoplasms,1.95505
+61,1967,All Malignant Neoplasms,1.966068
+62,1968,All Malignant Neoplasms,1.988141
+63,1969,All Malignant Neoplasms,1.9850740000000002
+64,1970,All Malignant Neoplasms,1.986207
+65,1971,All Malignant Neoplasms,1.993062
+66,1972,All Malignant Neoplasms,2.003052
+67,1973,All Malignant Neoplasms,2.000051
+68,1974,All Malignant Neoplasms,2.014457
+69,1975,All Malignant Neoplasms,2.001298
+70,1976,All Malignant Neoplasms,2.024936
+71,1977,All Malignant Neoplasms,2.0345020000000003
+72,1978,All Malignant Neoplasms,2.048633
+73,1979,All Malignant Neoplasms,2.039508
+74,1980,All Malignant Neoplasms,2.078602
+75,1981,All Malignant Neoplasms,2.063599
+76,1982,All Malignant Neoplasms,2.083423
+77,1983,All Malignant Neoplasms,2.091159
+78,1984,All Malignant Neoplasms,2.10798
+79,1985,All Malignant Neoplasms,2.112464
+80,1986,All Malignant Neoplasms,2.115286
+81,1987,All Malignant Neoplasms,2.1173580000000003
+82,1988,All Malignant Neoplasms,2.124653
+83,1989,All Malignant Neoplasms,2.141797
+84,1990,All Malignant Neoplasms,2.1601369999999998
+85,1991,All Malignant Neoplasms,2.151869
+86,1992,All Malignant Neoplasms,2.1351009999999997
+87,1993,All Malignant Neoplasms,2.134968
+88,1994,All Malignant Neoplasms,2.117325
+89,1995,All Malignant Neoplasms,2.098452
+90,1996,All Malignant Neoplasms,2.067326
+91,1997,All Malignant Neoplasms,2.034514
+92,1998,All Malignant Neoplasms,2.007503
+93,1999,All Malignant Neoplasms,2.007564
+94,2000,All Malignant Neoplasms,1.9962380000000002
+95,2001,All Malignant Neoplasms,1.964682
+96,2002,All Malignant Neoplasms,1.943539
+97,2003,All Malignant Neoplasms,1.9086419999999997
+98,2004,All Malignant Neoplasms,1.8677720000000002
+99,2005,All Malignant Neoplasms,1.8508349999999998
+100,2006,All Malignant Neoplasms,1.8178290000000001
+101,2007,All Malignant Neoplasms,1.792693
+102,2008,All Malignant Neoplasms,1.76364
+103,2009,All Malignant Neoplasms,1.7350869999999998
+104,2010,All Malignant Neoplasms,1.727887
+105,2011,All Malignant Neoplasms,1.689591
+106,2012,All Malignant Neoplasms,1.664755
+107,2013,All Malignant Neoplasms,1.632111
+108,2014,All Malignant Neoplasms,1.6121299999999998
+109,2015,All Malignant Neoplasms,1.585029
+110,2016,All Malignant Neoplasms,1.55771
+111,2017,All Malignant Neoplasms,1.5247030000000001
+112,1962,Diabetes Mellitus,0.22451100000000002
+113,1963,Diabetes Mellitus,0.22813899999999998
+114,1964,Diabetes Mellitus,0.22436399999999998
+115,1965,Diabetes Mellitus,0.22794299999999998
+116,1966,Diabetes Mellitus,0.234535
+117,1967,Diabetes Mellitus,0.233303
+118,1968,Diabetes Mellitus,0.253105
+119,1969,Diabetes Mellitus,0.251067
+120,1970,Diabetes Mellitus,0.24270300000000003
+121,1971,Diabetes Mellitus,0.23866500000000002
+122,1972,Diabetes Mellitus,0.237129
+123,1973,Diabetes Mellitus,0.229773
+124,1974,Diabetes Mellitus,0.22063000000000002
+125,1975,Diabetes Mellitus,0.20291700000000001
+126,1976,Diabetes Mellitus,0.194685
+127,1977,Diabetes Mellitus,0.181617
+128,1978,Diabetes Mellitus,0.182867
+129,1979,Diabetes Mellitus,0.17489200000000002
+130,1980,Diabetes Mellitus,0.180706
+131,1981,Diabetes Mellitus,0.175677
+132,1982,Diabetes Mellitus,0.171743
+133,1983,Diabetes Mellitus,0.17621900000000001
+134,1984,Diabetes Mellitus,0.17158900000000002
+135,1985,Diabetes Mellitus,0.173854
+136,1986,Diabetes Mellitus,0.171632
+137,1987,Diabetes Mellitus,0.174507
+138,1988,Diabetes Mellitus,0.180254
+139,1989,Diabetes Mellitus,0.205177
+140,1990,Diabetes Mellitus,0.20654099999999997
+141,1991,Diabetes Mellitus,0.20665
+142,1992,Diabetes Mellitus,0.207103
+143,1993,Diabetes Mellitus,0.218696
+144,1994,Diabetes Mellitus,0.22590500000000002
+145,1995,Diabetes Mellitus,0.23198600000000003
+146,1996,Diabetes Mellitus,0.237575
+147,1997,Diabetes Mellitus,0.236848
+148,1998,Diabetes Mellitus,0.240581
+149,1999,Diabetes Mellitus,0.250131
+150,2000,Diabetes Mellitus,0.250431
+151,2001,Diabetes Mellitus,0.253601
+152,2002,Diabetes Mellitus,0.256133
+153,2003,Diabetes Mellitus,0.25503000000000003
+154,2004,Diabetes Mellitus,0.247427
+155,2005,Diabetes Mellitus,0.24929899999999997
+156,2006,Diabetes Mellitus,0.235737
+157,2007,Diabetes Mellitus,0.227816
+158,2008,Diabetes Mellitus,0.22036599999999998
+159,2009,Diabetes Mellitus,0.21038800000000002
+160,2010,Diabetes Mellitus,0.20800700000000003
+161,2011,Diabetes Mellitus,0.216617
+162,2012,Diabetes Mellitus,0.21187399999999998
+163,2013,Diabetes Mellitus,0.211799
+164,2014,Diabetes Mellitus,0.209531
+165,2015,Diabetes Mellitus,0.212878
+166,2016,Diabetes Mellitus,0.210013
+167,2017,Diabetes Mellitus,0.214464
+168,1962,Cerebrovascular Disease,1.728061
+169,1963,Cerebrovascular Disease,1.7119060000000001
+170,1964,Cerebrovascular Disease,1.63332
+171,1965,Cerebrovascular Disease,1.6253
+172,1966,Cerebrovascular Disease,1.619936
+173,1967,Cerebrovascular Disease,1.563662
+174,1968,Cerebrovascular Disease,1.625291
+175,1969,Cerebrovascular Disease,1.554136
+176,1970,Cerebrovascular Disease,1.4766059999999999
+177,1971,Cerebrovascular Disease,1.476302
+178,1972,Cerebrovascular Disease,1.473329
+179,1973,Cerebrovascular Disease,1.451734
+180,1974,Cerebrovascular Disease,1.367718
+181,1975,Cerebrovascular Disease,1.2351370000000002
+182,1976,Cerebrovascular Disease,1.174189
+183,1977,Cerebrovascular Disease,1.104017
+184,1978,Cerebrovascular Disease,1.0370549999999998
+185,1979,Cerebrovascular Disease,0.972981
+186,1980,Cerebrovascular Disease,0.9645030000000001
+187,1981,Cerebrovascular Disease,0.8969729999999999
+188,1982,Cerebrovascular Disease,0.843801
+189,1983,Cerebrovascular Disease,0.813561
+190,1984,Cerebrovascular Disease,0.7894680000000001
+191,1985,Cerebrovascular Disease,0.766187
+192,1986,Cerebrovascular Disease,0.732516
+193,1987,Cerebrovascular Disease,0.7181529999999999
+194,1988,Cerebrovascular Disease,0.707978
+195,1989,Cerebrovascular Disease,0.671068
+196,1990,Cerebrovascular Disease,0.654997
+197,1991,Cerebrovascular Disease,0.630764
+198,1992,Cerebrovascular Disease,0.616351
+199,1993,Cerebrovascular Disease,0.628502
+200,1994,Cerebrovascular Disease,0.627905
+201,1995,Cerebrovascular Disease,0.632672
+202,1996,Cerebrovascular Disease,0.6261800000000001
+203,1997,Cerebrovascular Disease,0.612312
+204,1998,Cerebrovascular Disease,0.5945090000000001
+205,1999,Cerebrovascular Disease,0.6160399999999999
+206,2000,Cerebrovascular Disease,0.6085119999999999
+207,2001,Cerebrovascular Disease,0.5837289999999999
+208,2002,Cerebrovascular Disease,0.57258
+209,2003,Cerebrovascular Disease,0.5457
+210,2004,Cerebrovascular Disease,0.511831
+211,2005,Cerebrovascular Disease,0.479616
+212,2006,Cerebrovascular Disease,0.448233
+213,2007,Cerebrovascular Disease,0.435079
+214,2008,Cerebrovascular Disease,0.42076
+215,2009,Cerebrovascular Disease,0.39607
+216,2010,Cerebrovascular Disease,0.391417
+217,2011,Cerebrovascular Disease,0.378938
+218,2012,Cerebrovascular Disease,0.36884
+219,2013,Cerebrovascular Disease,0.361705
+220,2014,Cerebrovascular Disease,0.364737
+221,2015,Cerebrovascular Disease,0.376195
+222,2016,Cerebrovascular Disease,0.37349099999999996
+223,2017,Cerebrovascular Disease,0.375874
+224,1962,All Heart Disease,5.483364
+225,1963,All Heart Disease,5.514154
+226,1964,All Heart Disease,5.343587
+227,1965,All Heart Disease,5.331957
+228,1966,All Heart Disease,5.320983999999999
+229,1967,All Heart Disease,5.17504
+230,1968,All Heart Disease,5.314291000000001
+231,1969,All Heart Disease,5.170841
+232,1970,All Heart Disease,4.929598
+233,1971,All Heart Disease,4.9303870000000005
+234,1972,All Heart Disease,4.903876
+235,1973,All Heart Disease,4.822325
+236,1974,All Heart Disease,4.589241
+237,1975,All Heart Disease,4.313358
+238,1976,All Heart Disease,4.270555
+239,1977,All Heart Disease,4.138177
+240,1978,All Heart Disease,4.1006540000000005
+241,1979,All Heart Disease,4.0163269999999995
+242,1980,All Heart Disease,4.120938
+243,1981,All Heart Disease,3.9699190000000004
+244,1982,All Heart Disease,3.8905260000000004
+245,1983,All Heart Disease,3.888733
+246,1984,All Heart Disease,3.7879629999999995
+247,1985,All Heart Disease,3.74936
+248,1986,All Heart Disease,3.651136
+249,1987,All Heart Disease,3.559249
+250,1988,All Heart Disease,3.5247010000000003
+251,1989,All Heart Disease,3.3203730000000005
+252,1990,All Heart Disease,3.2182169999999997
+253,1991,All Heart Disease,3.125362
+254,1992,All Heart Disease,3.0402709999999997
+255,1993,All Heart Disease,3.0812
+256,1994,All Heart Disease,2.974814
+257,1995,All Heart Disease,2.9340889999999997
+258,1996,All Heart Disease,2.857309
+259,1997,All Heart Disease,2.776595
+260,1998,All Heart Disease,2.71316
+261,1999,All Heart Disease,2.664438
+262,2000,All Heart Disease,2.576241
+263,2001,All Heart Disease,2.495013
+264,2002,All Heart Disease,2.446532
+265,2003,All Heart Disease,2.363175
+266,2004,All Heart Disease,2.216195
+267,2005,All Heart Disease,2.1684240000000004
+268,2006,All Heart Disease,2.054774
+269,2007,All Heart Disease,1.960851
+270,2008,All Heart Disease,1.921044
+271,2009,All Heart Disease,1.828212
+272,2010,All Heart Disease,1.7913259999999998
+273,2011,All Heart Disease,1.737396
+274,2012,All Heart Disease,1.70501
+275,2013,All Heart Disease,1.6977380000000002
+276,2014,All Heart Disease,1.6696080000000002
+277,2015,All Heart Disease,1.684709
+278,2016,All Heart Disease,1.655169
+279,2017,All Heart Disease,1.650523
+280,1962,Influenza & Pneumonia,0.468095
+281,1963,Influenza & Pneumonia,0.5483399999999999
+282,1964,Influenza & Pneumonia,0.44498000000000004
+283,1965,Influenza & Pneumonia,0.45743999999999996
+284,1966,Influenza & Pneumonia,0.466425
+285,1967,Influenza & Pneumonia,0.41305699999999995
+286,1968,Influenza & Pneumonia,0.526517
+287,1969,Influenza & Pneumonia,0.477862
+288,1970,Influenza & Pneumonia,0.41692799999999997
+289,1971,Influenza & Pneumonia,0.38460300000000003
+290,1972,Influenza & Pneumonia,0.41278400000000004
+291,1973,Influenza & Pneumonia,0.411208
+292,1974,Influenza & Pneumonia,0.35444200000000003
+293,1975,Influenza & Pneumonia,0.34947399999999995
+294,1976,Influenza & Pneumonia,0.38786
+295,1977,Influenza & Pneumonia,0.31005900000000003
+296,1978,Influenza & Pneumonia,0.34536500000000003
+297,1979,Influenza & Pneumonia,0.260999
+298,1980,Influenza & Pneumonia,0.31452800000000003
+299,1981,Influenza & Pneumonia,0.299829
+300,1982,Influenza & Pneumonia,0.265151
+301,1983,Influenza & Pneumonia,0.29756900000000003
+302,1984,Influenza & Pneumonia,0.306394
+303,1985,Influenza & Pneumonia,0.34541700000000003
+304,1986,Influenza & Pneumonia,0.348353
+305,1987,Influenza & Pneumonia,0.337731
+306,1988,Influenza & Pneumonia,0.372706
+307,1989,Influenza & Pneumonia,0.359173
+308,1990,Influenza & Pneumonia,0.368021
+309,1991,Influenza & Pneumonia,0.347069
+310,1992,Influenza & Pneumonia,0.32814899999999997
+311,1993,Influenza & Pneumonia,0.34984
+312,1994,Influenza & Pneumonia,0.33605
+313,1995,Influenza & Pneumonia,0.333965
+314,1996,Influenza & Pneumonia,0.32926500000000003
+315,1997,Influenza & Pneumonia,0.332629
+316,1998,Influenza & Pneumonia,0.34578600000000004
+317,1999,Influenza & Pneumonia,0.23504899999999998
+318,2000,Influenza & Pneumonia,0.237283
+319,2001,Influenza & Pneumonia,0.221654
+320,2002,Influenza & Pneumonia,0.231531
+321,2003,Influenza & Pneumonia,0.225744
+322,2004,Influenza & Pneumonia,0.203681
+323,2005,Influenza & Pneumonia,0.21046399999999998
+324,2006,Influenza & Pneumonia,0.184119
+325,2007,Influenza & Pneumonia,0.168381
+326,2008,Influenza & Pneumonia,0.176014
+327,2009,Influenza & Pneumonia,0.16005
+328,2010,Influenza & Pneumonia,0.150313
+329,2011,Influenza & Pneumonia,0.15673800000000002
+330,2012,Influenza & Pneumonia,0.14457799999999998
+331,2013,Influenza & Pneumonia,0.158443
+332,2014,Influenza & Pneumonia,0.14923499999999998
+333,2015,Influenza & Pneumonia,0.152421
+334,2016,Influenza & Pneumonia,0.134697
+335,2017,Influenza & Pneumonia,0.142842
+336, Asthma,Bronchitis,20276.0
+337, Asthma,Bronchitis,23884.0
+338, Asthma,Bronchitis,24647.0
+339, Asthma,Bronchitis,27951.0
+340, Asthma,Bronchitis,29737.0
+341, Asthma,Bronchitis,30315.0
+342, Asthma,Bronchitis,33076.0
+343, Asthma,Bronchitis,31139.0
+344, Asthma,Bronchitis,30882.0
+345, Asthma,Bronchitis,30281.0
+346, Asthma,Bronchitis,30764.0
+347, Asthma,Bronchitis,29705.0
+348, Asthma,Bronchitis,26876.0
+349, Asthma,Bronchitis,25464.0
+350, Asthma,Bronchitis,24408.0
+351, Asthma,Bronchitis,22358.0
+352, Asthma,Bronchitis,21871.0
+353, Asthma,Bronchitis,19815.0
+354, Asthma,Bronchitis,20495.0
+355, Asthma,Bronchitis,20107.0
+356, Asthma,Bronchitis,19437.0
+357, Asthma,Bronchitis,20427.0
+358, Asthma,Bronchitis,20371.0
+359, Asthma,Bronchitis,21643.0
+360, Asthma,Bronchitis,22173.0
+361, Asthma,Bronchitis,22420.0
+362, Asthma,Bronchitis,23826.0
+363, Asthma,Bronchitis,24093.0
+364, Asthma,Bronchitis,24124.0
+365, Asthma,Bronchitis,25268.0
+366, Asthma,Bronchitis,24991.0
+367, Asthma,Bronchitis,26527.0
+368, Asthma,Bronchitis,26279.0
+369, Asthma,Bronchitis,25897.0
+370, Asthma,Bronchitis,26101.0
+371, Asthma,Bronchitis,26005.0
+372, Asthma,Bronchitis,26025.0
+373, Asthma,Bronchitis,123207.0
+374, Asthma,Bronchitis,121056.0
+375, Asthma,Bronchitis,122041.0
+376, Asthma,Bronchitis,123831.0
+377, Asthma,Bronchitis,125446.0
+378, Asthma,Bronchitis,121028.0
+379, Asthma,Bronchitis,129957.0
+380, Asthma,Bronchitis,123606.0
+381, Asthma,Bronchitis,127017.0
+382, Asthma,Bronchitis,140102.0
+383, Asthma,Bronchitis,136383.0
+384, Asthma,Bronchitis,137060.0
+385, Asthma,Bronchitis,141920.0
+386, Asthma,Bronchitis,142498.0
+387, Asthma,Bronchitis,148266.0
+388, Asthma,Bronchitis,146120.0
+389, Asthma,Bronchitis,153961.0
+390, Asthma,Bronchitis,153679.0
+391, Asthma,Bronchitis,159177.0
+392,1962,Ulcer of Stomach & Duodenum,0.088824
+393,1963,Ulcer of Stomach & Duodenum,0.086822
+394,1964,Ulcer of Stomach & Duodenum,0.077067
+395,1965,Ulcer of Stomach & Duodenum,0.071896
+396,1966,Ulcer of Stomach & Duodenum,0.070062
+397,1967,Ulcer of Stomach & Duodenum,0.065809
+398,1968,Ulcer of Stomach & Duodenum,0.062152
+399,1969,Ulcer of Stomach & Duodenum,0.06039
+400,1970,Ulcer of Stomach & Duodenum,0.054311
+401,1971,Ulcer of Stomach & Duodenum,0.050526999999999996
+402,1972,Ulcer of Stomach & Duodenum,0.048213
+403,1973,Ulcer of Stomach & Duodenum,0.046189999999999995
+404,1974,Ulcer of Stomach & Duodenum,0.041741
+405,1975,Ulcer of Stomach & Duodenum,0.039049
+406,1976,Ulcer of Stomach & Duodenum,0.036516
+407,1977,Ulcer of Stomach & Duodenum,0.033105
+408,1978,Ulcer of Stomach & Duodenum,0.030392000000000002
+409,1979,Ulcer of Stomach & Duodenum,0.032222
+410,1980,Ulcer of Stomach & Duodenum,0.032761
+411,1981,Ulcer of Stomach & Duodenum,0.034043000000000004
+412,1982,Ulcer of Stomach & Duodenum,0.034769
+413,1983,Ulcer of Stomach & Duodenum,0.032213
+414,1984,Ulcer of Stomach & Duodenum,0.032572000000000004
+415,1985,Ulcer of Stomach & Duodenum,0.032431
+416,1986,Ulcer of Stomach & Duodenum,0.030998
+417,1987,Ulcer of Stomach & Duodenum,0.029872000000000003
+418,1988,Ulcer of Stomach & Duodenum,0.029675
+419,1989,Ulcer of Stomach & Duodenum,0.029299000000000002
+420,1990,Ulcer of Stomach & Duodenum,0.027655000000000002
+421,1991,Ulcer of Stomach & Duodenum,0.026602999999999998
+422,1992,Ulcer of Stomach & Duodenum,0.025997000000000003
+423,1993,Ulcer of Stomach & Duodenum,0.024666999999999998
+424,1994,Ulcer of Stomach & Duodenum,0.02471
+425,1995,Ulcer of Stomach & Duodenum,0.021733000000000002
+426,1996,Ulcer of Stomach & Duodenum,0.01986
+427,1997,Ulcer of Stomach & Duodenum,0.019530000000000002
+428,1998,Ulcer of Stomach & Duodenum,0.017568
+429,1999,Ulcer of Stomach & Duodenum,0.01676
+430,2000,Ulcer of Stomach & Duodenum,0.016319999999999998
+431,2001,Ulcer of Stomach & Duodenum,0.01585
+432,2002,Ulcer of Stomach & Duodenum,0.014130000000000002
+433,2003,Ulcer of Stomach & Duodenum,0.01329
+434,2004,Ulcer of Stomach & Duodenum,0.01234
+435,2005,Ulcer of Stomach & Duodenum,0.011479000000000001
+436,2006,Ulcer of Stomach & Duodenum,0.010714
+437,2007,Ulcer of Stomach & Duodenum,0.009567
+438,2008,Ulcer of Stomach & Duodenum,0.009503
+439,2009,Ulcer of Stomach & Duodenum,0.008918
+440,2010,Ulcer of Stomach & Duodenum,0.008844
+441,2011,Ulcer of Stomach & Duodenum,0.008666
+442,2012,Ulcer of Stomach & Duodenum,0.008149
+443,2013,Ulcer of Stomach & Duodenum,0.00822
+444,2014,Ulcer of Stomach & Duodenum,0.008173999999999999
+445,2015,Ulcer of Stomach & Duodenum,0.008031
+446,2016,Ulcer of Stomach & Duodenum,0.008287000000000001
+447,2017,Ulcer of Stomach & Duodenum,0.008451
+448,1962,Cirrhosis of Liver,0.136445
+449,1963,Cirrhosis of Liver,0.138594
+450,1964,Cirrhosis of Liver,0.142285
+451,1965,Cirrhosis of Liver,0.14954800000000001
+452,1966,Cirrhosis of Liver,0.159352
+453,1967,Cirrhosis of Liver,0.16334300000000002
+454,1968,Cirrhosis of Liver,0.169415
+455,1969,Cirrhosis of Liver,0.171402
+456,1970,Cirrhosis of Liver,0.17840799999999998
+457,1971,Cirrhosis of Liver,0.177842
+458,1972,Cirrhosis of Liver,0.180096
+459,1973,Cirrhosis of Liver,0.181259
+460,1974,Cirrhosis of Liver,0.178742
+461,1975,Cirrhosis of Liver,0.16709200000000002
+462,1976,Cirrhosis of Liver,0.164426
+463,1977,Cirrhosis of Liver,0.158598
+464,1978,Cirrhosis of Liver,0.152359
+465,1979,Cirrhosis of Liver,0.14835
+466,1980,Cirrhosis of Liver,0.150756
+467,1981,Cirrhosis of Liver,0.142252
+468,1982,Cirrhosis of Liver,0.131918
+469,1983,Cirrhosis of Liver,0.128121
+470,1984,Cirrhosis of Liver,0.126694
+471,1985,Cirrhosis of Liver,0.122522
+472,1986,Cirrhosis of Liver,0.11797
+473,1987,Cirrhosis of Liver,0.116875
+474,1988,Cirrhosis of Liver,0.11633800000000001
+475,1989,Cirrhosis of Liver,0.11596
+476,1990,Cirrhosis of Liver,0.111002
+477,1991,Cirrhosis of Liver,0.107063
+478,1992,Cirrhosis of Liver,0.10428499999999999
+479,1993,Cirrhosis of Liver,0.10216499999999999
+480,1994,Cirrhosis of Liver,0.101217
+481,1995,Cirrhosis of Liver,0.098833
+482,1996,Cirrhosis of Liver,0.09642300000000001
+483,1997,Cirrhosis of Liver,0.095131
+484,1998,Cirrhosis of Liver,0.093423
+485,1999,Cirrhosis of Liver,0.09411
+486,2000,Cirrhosis of Liver,0.093848
+487,2001,Cirrhosis of Liver,0.093422
+488,2002,Cirrhosis of Liver,0.092197
+489,2003,Cirrhosis of Liver,0.092606
+490,2004,Cirrhosis of Liver,0.089254
+491,2005,Cirrhosis of Liver,0.089049
+492,2006,Cirrhosis of Liver,0.087299
+493,2007,Cirrhosis of Liver,0.090514
+494,2008,Cirrhosis of Liver,0.091169
+495,2009,Cirrhosis of Liver,0.091053
+496,2010,Cirrhosis of Liver,0.093562
+497,2011,Cirrhosis of Liver,0.096616
+498,2012,Cirrhosis of Liver,0.09887
+499,2013,Cirrhosis of Liver,0.101122
+500,2014,Cirrhosis of Liver,0.103949
+501,2015,Cirrhosis of Liver,0.108347
+502,2016,Cirrhosis of Liver,0.10732699999999999
+503,2017,Cirrhosis of Liver,0.108771
+504,1962,Nephritis & Nephrosis,0.09565599999999999
+505,1963,Nephritis & Nephrosis,0.09068899999999999
+506,1964,Nephritis & Nephrosis,0.087477
+507,1965,Nephritis & Nephrosis,0.081938
+508,1966,Nephritis & Nephrosis,0.077761
+509,1967,Nephritis & Nephrosis,0.072406
+510,1968,Nephritis & Nephrosis,0.061163999999999996
+511,1969,Nephritis & Nephrosis,0.060284000000000004
+512,1970,Nephritis & Nephrosis,0.055309000000000004
+513,1971,Nephritis & Nephrosis,0.052135
+514,1972,Nephritis & Nephrosis,0.052115999999999996
+515,1973,Nephritis & Nephrosis,0.050092000000000005
+516,1974,Nephritis & Nephrosis,0.047445999999999995
+517,1975,Nephritis & Nephrosis,0.046468
+518,1976,Nephritis & Nephrosis,0.048649
+519,1977,Nephritis & Nephrosis,0.047428
+520,1978,Nephritis & Nephrosis,0.048246
+521,1979,Nephritis & Nephrosis,0.086366
+522,1980,Nephritis & Nephrosis,0.09110700000000001
+523,1981,Nephritis & Nephrosis,0.091199
+524,1982,Nephritis & Nephrosis,0.093511
+525,1983,Nephritis & Nephrosis,0.096357
+526,1984,Nephritis & Nephrosis,0.100093
+527,1985,Nephritis & Nephrosis,0.104229
+528,1986,Nephritis & Nephrosis,0.104369
+529,1987,Nephritis & Nephrosis,0.10373099999999999
+530,1988,Nephritis & Nephrosis,0.10354000000000001
+531,1989,Nephritis & Nephrosis,0.095522
+532,1990,Nephritis & Nephrosis,0.092899
+533,1991,Nephritis & Nephrosis,0.092529
+534,1992,Nephritis & Nephrosis,0.09374199999999999
+535,1993,Nephritis & Nephrosis,0.096385
+536,1994,Nephritis & Nephrosis,0.093115
+537,1995,Nephritis & Nephrosis,0.093999
+538,1996,Nephritis & Nephrosis,0.094534
+539,1997,Nephritis & Nephrosis,0.096623
+540,1998,Nephritis & Nephrosis,0.097938
+541,1999,Nephritis & Nephrosis,0.13813699999999998
+542,2000,Nephritis & Nephrosis,0.142626
+543,2001,Nephritis & Nephrosis,0.14816500000000002
+544,2002,Nephritis & Nephrosis,0.15146400000000002
+545,2003,Nephritis & Nephrosis,0.154426
+546,2004,Nephritis & Nephrosis,0.152274
+547,2005,Nephritis & Nephrosis,0.15395599999999998
+548,2006,Nephritis & Nephrosis,0.155325
+549,2007,Nephritis & Nephrosis,0.155968
+550,2008,Nephritis & Nephrosis,0.158496
+551,2009,Nephritis & Nephrosis,0.15803699999999998
+552,2010,Nephritis & Nephrosis,0.160808
+553,2011,Nephritis & Nephrosis,0.143283
+554,2012,Nephritis & Nephrosis,0.141361
+555,2013,Nephritis & Nephrosis,0.14322200000000002
+556,2014,Nephritis & Nephrosis,0.14438299999999998
+557,2015,Nephritis & Nephrosis,0.148099
+558,2016,Nephritis & Nephrosis,0.147277
+559,2017,Nephritis & Nephrosis,0.147292
+560,1962,Motor Vehicle Accidents,0.24059499999999998
+561,1963,Motor Vehicle Accidents,0.25258
+562,1964,Motor Vehicle Accidents,0.26344
+563,1965,Motor Vehicle Accidents,0.27081900000000003
+564,1966,Motor Vehicle Accidents,0.28565799999999997
+565,1967,Motor Vehicle Accidents,0.280002
+566,1968,Motor Vehicle Accidents,0.286572
+567,1969,Motor Vehicle Accidents,0.285193
+568,1970,Motor Vehicle Accidents,0.27565500000000004
+569,1971,Motor Vehicle Accidents,0.266739
+570,1972,Motor Vehicle Accidents,0.270937
+571,1973,Motor Vehicle Accidents,0.261842
+572,1974,Motor Vehicle Accidents,0.213601
+573,1975,Motor Vehicle Accidents,0.20783000000000001
+574,1976,Motor Vehicle Accidents,0.20889699999999997
+575,1977,Motor Vehicle Accidents,0.21537199999999998
+576,1978,Motor Vehicle Accidents,0.224204
+577,1979,Motor Vehicle Accidents,0.226093
+578,1980,Motor Vehicle Accidents,0.222619
+579,1981,Motor Vehicle Accidents,0.21266999999999997
+580,1982,Motor Vehicle Accidents,0.188368
+581,1983,Motor Vehicle Accidents,0.182062
+582,1984,Motor Vehicle Accidents,0.187771
+583,1985,Motor Vehicle Accidents,0.185337
+584,1986,Motor Vehicle Accidents,0.190686
+585,1987,Motor Vehicle Accidents,0.192065
+586,1988,Motor Vehicle Accidents,0.194639
+587,1989,Motor Vehicle Accidents,0.188253
+588,1990,Motor Vehicle Accidents,0.184367
+589,1991,Motor Vehicle Accidents,0.169545
+590,1992,Motor Vehicle Accidents,0.158368
+591,1993,Motor Vehicle Accidents,0.16023199999999999
+592,1994,Motor Vehicle Accidents,0.16125799999999998
+593,1995,Motor Vehicle Accidents,0.16257
+594,1996,Motor Vehicle Accidents,0.161983
+595,1997,Motor Vehicle Accidents,0.15950999999999999
+596,1998,Motor Vehicle Accidents,0.157716
+597,1999,Motor Vehicle Accidents,0.164486
+598,2000,Motor Vehicle Accidents,0.164148
+599,2001,Motor Vehicle Accidents,0.163243
+600,2002,Motor Vehicle Accidents,0.165056
+601,2003,Motor Vehicle Accidents,0.1624
+602,2004,Motor Vehicle Accidents,0.16045299999999998
+603,2005,Motor Vehicle Accidents,0.15978900000000001
+604,2006,Motor Vehicle Accidents,0.15793
+605,2007,Motor Vehicle Accidents,0.15112
+606,2008,Motor Vehicle Accidents,0.135889
+607,2009,Motor Vehicle Accidents,0.122875
+608,2010,Motor Vehicle Accidents,0.11841600000000001
+609,2011,Motor Vehicle Accidents,0.11710899999999999
+610,2012,Motor Vehicle Accidents,0.11885
+611,2013,Motor Vehicle Accidents,0.11440399999999999
+612,2014,Motor Vehicle Accidents,0.113245
+613,2015,Motor Vehicle Accidents,0.119598
+614,2016,Motor Vehicle Accidents,0.12670599999999999
+615,2017,Motor Vehicle Accidents,0.125273
+616,1962,All Other Accidents,0.39006199999999996
+617,1963,All Other Accidents,0.387731
+618,1964,All Other Accidents,0.373313
+619,1965,All Other Accidents,0.381373
+620,1966,All Other Accidents,0.38405900000000004
+621,1967,All Other Accidents,0.376459
+622,1968,All Other Accidents,0.368769
+623,1969,All Other Accidents,0.364319
+624,1970,All Other Accidents,0.34663499999999997
+625,1971,All Other Accidents,0.33705100000000005
+626,1972,All Other Accidents,0.33161599999999997
+627,1973,All Other Accidents,0.33115700000000003
+628,1974,All Other Accidents,0.313197
+629,1975,All Other Accidents,0.29994499999999996
+630,1976,All Other Accidents,0.27789200000000003
+631,1977,All Other Accidents,0.27255100000000004
+632,1978,All Other Accidents,0.26490199999999997
+633,1979,All Other Accidents,0.252711
+634,1980,All Other Accidents,0.253828
+635,1981,All Other Accidents,0.233963
+636,1982,All Other Accidents,0.22478299999999998
+637,1983,All Other Accidents,0.22094499999999997
+638,1984,All Other Accidents,0.212209
+639,1985,All Other Accidents,0.212839
+640,1986,All Other Accidents,0.208925
+641,1987,All Other Accidents,0.203602
+642,1988,All Other Accidents,0.207254
+643,1989,All Other Accidents,0.201731
+644,1990,All Other Accidents,0.19050999999999998
+645,1991,All Other Accidents,0.188609
+646,1992,All Other Accidents,0.185309
+647,1993,All Other Accidents,0.193388
+648,1994,All Other Accidents,0.191638
+649,1995,All Other Accidents,0.192794
+650,1996,All Other Accidents,0.194991
+651,1997,All Other Accidents,0.195108
+652,1998,All Other Accidents,0.200005
+653,1999,All Other Accidents,0.18338800000000002
+654,2000,All Other Accidents,0.18040699999999998
+655,2001,All Other Accidents,0.188019
+656,2002,All Other Accidents,0.200409
+657,2003,All Other Accidents,0.207537
+658,2004,All Other Accidents,0.21454099999999998
+659,2005,All Other Accidents,0.229388
+660,2006,All Other Accidents,0.23859699999999998
+661,2007,All Other Accidents,0.24655
+662,2008,All Other Accidents,0.25031
+663,2009,All Other Accidents,0.246416
+664,2010,All Other Accidents,0.255884
+665,2011,All Other Accidents,0.26803
+666,2012,All Other Accidents,0.26508899999999996
+667,2013,All Other Accidents,0.272988
+668,2014,All Other Accidents,0.28539499999999995
+669,2015,All Other Accidents,0.306346
+670,2016,All Other Accidents,0.34068699999999996
+671,2017,All Other Accidents,0.362155
+672,1962,Suicides,0.12901600000000002
+673,1963,Suicides,0.13058699999999998
+674,1964,Suicides,0.126283
+675,1965,Suicides,0.13001
+676,1966,Suicides,0.126728
+677,1967,Suicides,0.12494000000000001
+678,1968,Suicides,0.12388199999999999
+679,1969,Suicides,0.127418
+680,1970,Suicides,0.13126400000000002
+681,1971,Suicides,0.13155799999999998
+682,1972,Suicides,0.133501
+683,1973,Suicides,0.131294
+684,1974,Suicides,0.131622
+685,1975,Suicides,0.13584300000000002
+686,1976,Suicides,0.131923
+687,1977,Suicides,0.136997
+688,1978,Suicides,0.12846300000000002
+689,1979,Suicides,0.125306
+690,1980,Suicides,0.122048
+691,1981,Suicides,0.123083
+692,1982,Suicides,0.124445
+693,1983,Suicides,0.123225
+694,1984,Suicides,0.12571
+695,1985,Suicides,0.12495099999999999
+696,1986,Suicides,0.129777
+697,1987,Suicides,0.12809600000000002
+698,1988,Suicides,0.124749
+699,1989,Suicides,0.12298599999999998
+700,1990,Suicides,0.124984
+701,1991,Suicides,0.122749
+702,1992,Suicides,0.11974000000000001
+703,1993,Suicides,0.120353
+704,1994,Suicides,0.11889100000000001
+705,1995,Suicides,0.11791300000000002
+706,1996,Suicides,0.11525
+707,1997,Suicides,0.11237899999999999
+708,1998,Suicides,0.11114500000000001
+709,1999,Suicides,0.10468399999999999
+710,2000,Suicides,0.10423699999999998
+711,2001,Suicides,0.10687999999999999
+712,2002,Suicides,0.10934100000000001
+713,2003,Suicides,0.107528
+714,2004,Suicides,0.109452
+715,2005,Suicides,0.10880899999999999
+716,2006,Suicides,0.10947899999999999
+717,2007,Suicides,0.112522
+718,2008,Suicides,0.115809
+719,2009,Suicides,0.117281
+720,2010,Suicides,0.12067699999999999
+721,2011,Suicides,0.123057
+722,2012,Suicides,0.12527
+723,2013,Suicides,0.125522
+724,2014,Suicides,0.129245
+725,2015,Suicides,0.132461
+726,2016,Suicides,0.13402
+727,2017,Suicides,0.13968599999999998
+728,1962,Homicides & Other External Causes,0.054591999999999995
+729,1963,Homicides & Other External Causes,0.055101
+730,1964,Homicides & Other External Causes,0.056869
+731,1965,Homicides & Other External Causes,0.061287
+732,1966,Homicides & Other External Causes,0.06571
+733,1967,Homicides & Other External Causes,0.074989
+734,1968,Homicides & Other External Causes,0.104978
+735,1969,Homicides & Other External Causes,0.11118399999999999
+736,1970,Homicides & Other External Causes,0.118529
+737,1971,Homicides & Other External Causes,0.124196
+738,1972,Homicides & Other External Causes,0.12618900000000002
+739,1973,Homicides & Other External Causes,0.127349
+740,1974,Homicides & Other External Causes,0.130448
+741,1975,Homicides & Other External Causes,0.125842
+742,1976,Homicides & Other External Causes,0.114924
+743,1977,Homicides & Other External Causes,0.113076
+744,1978,Homicides & Other External Causes,0.110885
+745,1979,Homicides & Other External Causes,0.11630499999999999
+746,1980,Homicides & Other External Causes,0.120941
+747,1981,Homicides & Other External Causes,0.11635799999999999
+748,1982,Homicides & Other External Causes,0.10727
+749,1983,Homicides & Other External Causes,0.096568
+750,1984,Homicides & Other External Causes,0.093365
+751,1985,Homicides & Other External Causes,0.091807
+752,1986,Homicides & Other External Causes,0.098314
+753,1987,Homicides & Other External Causes,0.09449400000000001
+754,1988,Homicides & Other External Causes,0.09689400000000001
+755,1989,Homicides & Other External Causes,0.098617
+756,1990,Homicides & Other External Causes,0.10435699999999999
+757,1991,Homicides & Other External Causes,0.109804
+758,1992,Homicides & Other External Causes,0.10654200000000001
+759,1993,Homicides & Other External Causes,0.109556
+760,1994,Homicides & Other External Causes,0.10488900000000001
+761,1995,Homicides & Other External Causes,0.096235
+762,1996,Homicides & Other External Causes,0.08914
+763,1997,Homicides & Other External Causes,0.085062
+764,1998,Homicides & Other External Causes,0.07888400000000001
+765,1999,Homicides & Other External Causes,0.09063600000000001
+766,2000,Homicides & Other External Causes,0.089816
+767,2001,Homicides & Other External Causes,0.093027
+768,2002,Homicides & Other External Causes,0.094736
+769,2003,Homicides & Other External Causes,0.09527100000000001
+770,2004,Homicides & Other External Causes,0.092784
+771,2005,Homicides & Other External Causes,0.09336
+772,2006,Homicides & Other External Causes,0.09504800000000001
+773,2007,Homicides & Other External Causes,0.094726
+774,2008,Homicides & Other External Causes,0.091059
+775,2009,Homicides & Other External Causes,0.086384
+776,2010,Homicides & Other External Causes,0.08301900000000001
+777,2011,Homicides & Other External Causes,0.08272
+778,2012,Homicides & Other External Causes,0.083913
+779,2013,Homicides & Other External Causes,0.081079
+780,2014,Homicides & Other External Causes,0.078752
+781,2015,Homicides & Other External Causes,0.08578200000000001
+782,2016,Homicides & Other External Causes,0.09513200000000001
+783,2017,Homicides & Other External Causes,0.09839500000000001
+784,1962,All Other Causes of Death,1.728341
+785,1963,All Other Causes of Death,1.742809
+786,1964,All Other Causes of Death,1.728791
+787,1965,All Other Causes of Death,1.6905119999999998
+788,1966,All Other Causes of Death,1.6728060000000002
+789,1967,All Other Causes of Death,1.6258059999999999
+790,1968,All Other Causes of Death,1.6984150000000002
+791,1969,All Other Causes of Death,1.674993
+792,1970,All Other Causes of Death,1.6015110000000001
+793,1971,All Other Causes of Death,1.571479
+794,1972,All Other Causes of Death,1.551557
+795,1973,All Other Causes of Death,1.5372290000000002
+796,1974,All Other Causes of Death,1.498634
+797,1975,All Other Causes of Death,1.419956
+798,1976,All Other Causes of Death,1.402312
+799,1977,All Other Causes of Death,1.387593
+800,1978,All Other Causes of Death,1.367372
+801,1979,All Other Causes of Death,1.243298
+802,1980,All Other Causes of Death,1.286219
+803,1981,All Other Causes of Death,1.252589
+804,1982,All Other Causes of Death,1.231929
+805,1983,All Other Causes of Death,1.258368
+806,1984,All Other Causes of Death,1.2738049999999999
+807,1985,All Other Causes of Death,1.3238020000000001
+808,1986,All Other Causes of Death,1.3470010000000001
+809,1987,All Other Causes of Death,1.325545
+810,1988,All Other Causes of Death,1.343273
+811,1989,All Other Causes of Death,1.309949
+812,1990,All Other Causes of Death,1.281424
+813,1991,All Other Causes of Death,1.2573450000000002
+814,1992,All Other Causes of Death,1.235558
+815,1993,All Other Causes of Death,1.288743
+816,1994,All Other Causes of Death,1.292101
+817,1995,All Other Causes of Death,1.314393
+818,1996,All Other Causes of Death,1.322549
+819,1997,All Other Causes of Death,1.341689
+820,1998,All Other Causes of Death,1.363181
+821,1999,All Other Causes of Death,1.457202
+822,2000,All Other Causes of Death,1.5030940000000002
+823,2001,All Other Causes of Death,1.538562
+824,2002,All Other Causes of Death,1.5595569999999999
+825,2003,All Other Causes of Death,1.582389
+826,2004,All Other Causes of Death,1.557604
+827,2005,All Other Causes of Death,1.621191
+828,2006,All Other Causes of Death,1.638553
+829,2007,All Other Causes of Death,1.6261079999999999
+830,2008,All Other Causes of Death,1.6799099999999998
+831,2009,All Other Causes of Death,1.640839
+832,2010,All Other Causes of Death,1.672402
+833,2011,All Other Causes of Death,1.7025709999999998
+834,2012,All Other Causes of Death,1.712418
+835,2013,All Other Causes of Death,1.7203119999999998
+836,2014,All Other Causes of Death,1.707686
+837,2015,All Other Causes of Death,1.7238060000000002
+838,2016,All Other Causes of Death,1.720961
+839,2017,All Other Causes of Death,1.73557
+840,1962,AIDS,0.0
+841,1963,AIDS,0.0
+842,1964,AIDS,0.0
+843,1965,AIDS,0.0
+844,1966,AIDS,0.0
+845,1967,AIDS,0.0
+846,1968,AIDS,0.0
+847,1969,AIDS,0.0
+848,1970,AIDS,0.0
+849,1971,AIDS,0.0
+850,1972,AIDS,0.0
+851,1973,AIDS,0.0
+852,1974,AIDS,0.0
+853,1975,AIDS,0.0
+854,1976,AIDS,0.0
+855,1977,AIDS,0.0
+856,1978,AIDS,0.0
+857,1979,AIDS,0.0
+858,1980,AIDS,0.0
+859,1981,AIDS,0.0
+860,1982,AIDS,0.0
+861,1983,AIDS,0.0
+862,1984,AIDS,0.0
+863,1985,AIDS,0.0
+864,1986,AIDS,0.0
+865,1987,AIDS,0.05631900000000001
+866,1988,AIDS,0.0686
+867,1989,AIDS,0.090111
+868,1990,AIDS,0.10198099999999999
+869,1991,AIDS,0.11711600000000001
+870,1992,AIDS,0.131019
+871,1993,AIDS,0.143316
+872,1994,AIDS,0.159902
+873,1995,AIDS,0.161368
+874,1996,AIDS,0.115033
+875,1997,AIDS,0.060309
+876,1998,AIDS,0.048626
+877,1999,AIDS,0.053126
+878,2000,AIDS,0.051523
+879,2001,AIDS,0.049783999999999995
+880,2002,AIDS,0.049152
+881,2003,AIDS,0.047227
+882,2004,AIDS,0.04465
+883,2005,AIDS,0.042285
+884,2006,AIDS,0.040255
+885,2007,AIDS,0.037082
+886,2008,AIDS,0.033104
+887,2009,AIDS,0.029894
+888,2010,AIDS,0.026118000000000002
+889,2011,AIDS,0.023633
+890,2012,AIDS,0.021841
+891,2013,AIDS,0.020822999999999998
+892,2014,AIDS,0.019869
+893,2015,AIDS,0.018756000000000002
+894,2016,AIDS,0.017655
+895,2017,AIDS,0.016053
